@@ -1,0 +1,44 @@
+{
+  "arrowtrails.midnightconfig.title": "Arrow Trails Config",
+
+  "arrowtrails.midnightconfig.category.arrow_settings": "Arrow Settings",
+  "arrowtrails.midnightconfig.category.advanced": "Advanced",
+
+  "arrowtrails.midnightconfig.arrowTrailSettings": "Arrow Trail Settings",
+  "arrowtrails.midnightconfig.arrowTrailLength": "Length",
+  "arrowtrails.midnightconfig.arrowTrailStartColor": "Start Color",
+  "arrowtrails.midnightconfig.arrowTrailEndColor": "End Color",
+  "arrowtrails.midnightconfig.arrowTrailStartAlpha": "Start Alpha",
+  "arrowtrails.midnightconfig.arrowTrailEndAlpha": "End Alpha",
+  "arrowtrails.midnightconfig.arrowTrailStartWidth": "Start Width",
+  "arrowtrails.midnightconfig.arrowTrailEndWidth": "End Width",
+
+  "arrowtrails.midnightconfig.critArrowTrailSettings": "Crit Arrow Trail Settings",
+  "arrowtrails.midnightconfig.critArrowTrailLength": "Length",
+  "arrowtrails.midnightconfig.critArrowTrailStartColor": "Start Color",
+  "arrowtrails.midnightconfig.critArrowTrailEndColor": "End Color",
+  "arrowtrails.midnightconfig.critArrowTrailStartAlpha": "Start Alpha",
+  "arrowtrails.midnightconfig.critArrowTrailEndAlpha": "End Alpha",
+  "arrowtrails.midnightconfig.critArrowTrailStartWidth": "Start Width",
+  "arrowtrails.midnightconfig.critArrowTrailEndWidth": "End Width",
+
+  "arrowtrails.midnightconfig.spectralArrowTrailSettings": "Spectral Arrow Trail Settings",
+  "arrowtrails.midnightconfig.spectralArrowTrailLength": "Length",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartColor": "Start Color",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndColor": "End Color",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartAlpha": "Start Alpha",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndAlpha": "End Alpha",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartWidth": "Start Width",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndWidth": "End Width",
+
+  "arrowtrails.midnightconfig.tippedArrowTrailSettings": "Tipped Arrow Trail Settings",
+  "arrowtrails.midnightconfig.tippedArrowTrailLength": "Length",
+  "arrowtrails.midnightconfig.tippedArrowTrailStartAlpha": "Start Alpha",
+  "arrowtrails.midnightconfig.tippedArrowTrailEndAlpha": "End Alpha",
+  "arrowtrails.midnightconfig.tippedArrowTrailStartWidth": "Start Width",
+  "arrowtrails.midnightconfig.tippedArrowTrailEndWidth": "End Width",
+
+  "arrowtrails.midnightconfig.renderingSettings": "Rendering Settings",
+  "arrowtrails.midnightconfig.delayedRendering": "Delayed Rendering",
+  "arrowtrails.midnightconfig.disableTrails": "Disable Trails"
+}

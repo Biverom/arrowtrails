@@ -1,0 +1,44 @@
+{
+  "arrowtrails.midnightconfig.title": "Arrow Trails Config",
+
+  "arrowtrails.midnightconfig.category.arrow_settings": "Настройки стрел",
+  "arrowtrails.midnightconfig.category.advanced": "Дополнительно",
+
+  "arrowtrails.midnightconfig.arrowTrailSettings": "Настройки следа стрел",
+  "arrowtrails.midnightconfig.arrowTrailLength": "Длина",
+  "arrowtrails.midnightconfig.arrowTrailStartColor": "Начальный цвет",
+  "arrowtrails.midnightconfig.arrowTrailEndColor": "Конечный цвет",
+  "arrowtrails.midnightconfig.arrowTrailStartAlpha": "Начальная прозрачность",
+  "arrowtrails.midnightconfig.arrowTrailEndAlpha": "Конечная прозрачность",
+  "arrowtrails.midnightconfig.arrowTrailStartWidth": "Начальная ширина",
+  "arrowtrails.midnightconfig.arrowTrailEndWidth": "Конечная ширина",
+
+  "arrowtrails.midnightconfig.critArrowTrailSettings": "Настройки следа крит стрел",
+  "arrowtrails.midnightconfig.critArrowTrailLength": "Длина",
+  "arrowtrails.midnightconfig.critArrowTrailStartColor": "Начальный цвет",
+  "arrowtrails.midnightconfig.critArrowTrailEndColor": "Конечный цвет",
+  "arrowtrails.midnightconfig.critArrowTrailStartAlpha": "Начальная прозрачность",
+  "arrowtrails.midnightconfig.critArrowTrailEndAlpha": "Конечная прозрачность",
+  "arrowtrails.midnightconfig.critArrowTrailStartWidth": "Начальная ширина",
+  "arrowtrails.midnightconfig.critArrowTrailEndWidth": "Конечная ширина",
+
+  "arrowtrails.midnightconfig.spectralArrowTrailSettings": "Настройки следа спектральных стрел",
+  "arrowtrails.midnightconfig.spectralArrowTrailLength": "Длина",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartColor": "Начальный цвет",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndColor": "Конечный цвет",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartAlpha": "Начальная прозрачность",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndAlpha": "Конечная прозрачность",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartWidth": "Начальная ширина",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndWidth": "Конечная ширина",
+
+  "arrowtrails.midnightconfig.tippedArrowTrailSettings": "Настройки следа стрел с эффектами",
+  "arrowtrails.midnightconfig.tippedArrowTrailLength": "Длина",
+  "arrowtrails.midnightconfig.tippedArrowTrailStartAlpha": "Начальная прозрачность",
+  "arrowtrails.midnightconfig.tippedArrowTrailEndAlpha": "Конечная прозрачность",
+  "arrowtrails.midnightconfig.tippedArrowTrailStartWidth": "Начальная ширина",
+  "arrowtrails.midnightconfig.tippedArrowTrailEndWidth": "Конечная ширина",
+
+  "arrowtrails.midnightconfig.renderingSettings": "Настройки рендеринга",
+  "arrowtrails.midnightconfig.delayedRendering": "Отложенный рендеринг",
+  "arrowtrails.midnightconfig.disableTrails": "Отключить след"
+}

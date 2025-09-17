@@ -1,0 +1,44 @@
+{
+  "arrowtrails.midnightconfig.title": "Налаштування Arrow Trails",
+
+  "arrowtrails.midnightconfig.category.arrow_settings": "Налаштування стріл",
+  "arrowtrails.midnightconfig.category.advanced": "Додатково",
+
+  "arrowtrails.midnightconfig.arrowTrailSettings": "Налаштування сліду стріл",
+  "arrowtrails.midnightconfig.arrowTrailLength": "Довжина",
+  "arrowtrails.midnightconfig.arrowTrailStartColor": "Початковий колір",
+  "arrowtrails.midnightconfig.arrowTrailEndColor": "Кінцевий колір",
+  "arrowtrails.midnightconfig.arrowTrailStartAlpha": "Початкова прозорість",
+  "arrowtrails.midnightconfig.arrowTrailEndAlpha": "Кінцева прозорість",
+  "arrowtrails.midnightconfig.arrowTrailStartWidth": "Початкова ширина",
+  "arrowtrails.midnightconfig.arrowTrailEndWidth": "Кінцева ширина",
+
+  "arrowtrails.midnightconfig.critArrowTrailSettings": "Налаштування сліду крит стріл",
+  "arrowtrails.midnightconfig.critArrowTrailLength": "Довжина",
+  "arrowtrails.midnightconfig.critArrowTrailStartColor": "Початковий колір",
+  "arrowtrails.midnightconfig.critArrowTrailEndColor": "Кінцевий колір",
+  "arrowtrails.midnightconfig.critArrowTrailStartAlpha": "Початкова прозорість",
+  "arrowtrails.midnightconfig.critArrowTrailEndAlpha": "Кінцева прозорість",
+  "arrowtrails.midnightconfig.critArrowTrailStartWidth": "Початкова ширина",
+  "arrowtrails.midnightconfig.critArrowTrailEndWidth": "Кінцева ширина",
+
+  "arrowtrails.midnightconfig.spectralArrowTrailSettings": "Налаштування сліду спектральних стріл",
+  "arrowtrails.midnightconfig.spectralArrowTrailLength": "Довжина",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartColor": "Початковий колір",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndColor": "Кінцевий колір",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartAlpha": "Початкова прозорість",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndAlpha": "Кінцева прозорість",
+  "arrowtrails.midnightconfig.spectralArrowTrailStartWidth": "Початкова ширина",
+  "arrowtrails.midnightconfig.spectralArrowTrailEndWidth": "Кінцева ширина",
+
+  "arrowtrails.midnightconfig.tippedArrowTrailSettings": "Налаштування сліду стріл з ефектами",
+  "arrowtrails.midnightconfig.tippedArrowTrailLength": "Довжина",
+  "arrowtrails.midnightconfig.tippedArrowTrailStartAlpha": "Початкова прозорість",
+  "arrowtrails.midnightconfig.tippedArrowTrailEndAlpha": "Кінцева прозорість",
+  "arrowtrails.midnightconfig.tippedArrowTrailStartWidth": "Початкова ширина",
+  "arrowtrails.midnightconfig.tippedArrowTrailEndWidth": "Кінцева ширина",
+
+  "arrowtrails.midnightconfig.renderingSettings": "Налаштування рендерингу",
+  "arrowtrails.midnightconfig.delayedRendering": "Відкладений рендеринг",
+  "arrowtrails.midnightconfig.disableTrails": "Вимкнути слід"
+}
