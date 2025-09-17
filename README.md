@@ -1,0 +1,1 @@
+Adds configurable trails for arrows
